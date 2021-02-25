@@ -2,6 +2,7 @@
 
 <a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
 
+-**=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=**
 ### **Ey ey ey** 👋
 - 🔭 Soy estudiante del ITT.
 - 🌱 Estoy aprendiendo --> Ingles y HTML/CSS/JS.
