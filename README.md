@@ -11,17 +11,19 @@
 
 -**=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=**
 ##                 Horario Escolar
-|    Hora   |                     Lunes                     |                     Martes                    |                   Miercoles                   |                     Jueves                    |                    Viernes                    |
-|:---------:|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| 11am-12pm |                     Ingles                    |                     Ingles                    |                     Ingles                    |                     Ingles                    |                     Ingles                    |
-|  12pm-1pm |                    Dibujar                    |                    Dibujar                    |                    Dibujar                    |                    Dibujar                    |                    Dibujar                    |
-|  1pm-2pm  |           Taller de Investigacion I           |           Taller de Investigacion I           |           Taller de Investigacion I           |           Taller de Investigacion I           |                                               |
-|  2pm-3pm  |             Lenguaje de  Interfaz             |             Lenguaje de  Interfaz             |             Lenguaje de  Interfaz             |             Lenguaje de  Interfaz             |        Gestion de Proyectos de Software       |
-|  3pm-4pm  |        Gestion de Proyectos de Software       |        Gestion de Proyectos de Software       |        Gestion de Proyectos de Software       |        Gestion de Proyectos de Software       |        Gestion de Proyectos de Software       |
-|  4pm-5pm  | Conmutacion y Enrutamientos en Redes de Datos | Conmutacion y Enrutamientos en Redes de Datos | Conmutacion y Enrutamientos en Redes de Datos | Conmutacion y Enrutamientos en Redes de Datos | Conmutacion y Enrutamientos en Redes de Datos |
-|  5pm-6pm  |            Lenguajes y Automatas II           |            Lenguajes y Automatas II           |            Lenguajes y Automatas II           |            Lenguajes y Automatas II           |            Lenguajes y Automatas II           |
-|  6pm-7pm  |        Administracion de Base de Datos        |        Administracion de Base de Datos        |        Administracion de Base de Datos        |        Administracion de Base de Datos        |        Administracion de Base de Datos        |
-|  7pm-8pm  |        Programacion Logica y Funcional        |        Programacion Logica y Funcional        |        Programacion Logica y Funcional        |        Programacion Logica y Funcional        |                                               |
+|    Hora   |            Lunes           |           Martes           |          Miercoles         |           Jueves           |           Viernes          |
+|:---------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
+| 9am-10am  |           Ingles           |           Ingles           |           Ingles           |           Ingles           |           Ingles           |
+| 10am-11am |           Dibujo           |           Dibujo           |           Dibujo           |           Dibujo           |           Dibujo           |
+| 11am-12pm |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |
+|  12pm-1pm |            Libre           |            Libre           |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |
+|  1pm-2pm  |            Libre           |            Libre           |            Libre           |            Libre           |            Libre           |
+|  2pm-3pm  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |
+|  3pm-4pm  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |
+|  4pm-5pm  | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II |
+|  5pm-6pm  |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |
+|  6pm-7pm  |      Programacion Web      |      Programacion Web      |      Programacion Web      |      Programacion Web      |      Programacion Web      |
+|  7pm-8pm  |     Patrones de Diseño     |     Patrones de Diseño     |     Patrones de Diseño     |     Patrones de Diseño     |     Patrones de Diseño     |
 <!--
 **AmadorFernando/amadorfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
