@@ -16,7 +16,7 @@
 | 9am-10am  |           Ingles           |           Ingles           |           Ingles           |           Ingles           |           Ingles           |
 | 10am-11am |           Dibujo           |           Dibujo           |           Dibujo           |           Dibujo           |           Dibujo           |
 | 11am-12pm |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |
-|  12pm-1pm |            Libre           |            Libre           |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |
+|  12pm-1pm |            Libre           |            Libre           |            Libre           |            Libre           |            Libre           |
 |  1pm-2pm  |            Libre           |            Libre           |            Libre           |            Libre           |            Libre           |
 |  2pm-3pm  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |
 |  3pm-4pm  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |
