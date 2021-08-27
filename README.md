@@ -18,10 +18,10 @@
 | 11am-12pm |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |            Libre           |       Ejercicio/Libre      |
 |  12pm-1pm |            Libre           |            Libre           |            Libre           |            Libre           |            Libre           |
 |  1pm-2pm  |            Libre           |            Libre           |            Libre           |            Libre           |            Libre           |
-|  2pm-3pm  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |
-|  3pm-4pm  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |
-|  4pm-5pm  | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II |
-|  5pm-6pm  |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |
+|  2pm-3pm  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |   Administracion de Redes  |            Libre           |
+|  3pm-4pm  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |   Inteligencia Artificial  |            Libre           |
+|  4pm-5pm  | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II | Taller de Investigacion II |            Libre           |
+|  5pm-6pm  |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |    Sistemas Programables   |            Libre           |
 |  6pm-7pm  |      Programacion Web      |      Programacion Web      |      Programacion Web      |      Programacion Web      |      Programacion Web      |
 |  7pm-8pm  |     Patrones de Diseño     |     Patrones de Diseño     |     Patrones de Diseño     |     Patrones de Diseño     |     Patrones de Diseño     |
 <!--
